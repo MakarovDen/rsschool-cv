@@ -4,8 +4,8 @@ ___________________________________
 ##   ***Contact information***
 * ***Email:***    denisok73@yandex.ru
 * ***Telegram:*** @Denisok73
-* ***phone:***     +79084802412
-* ***discord:***    Denis Makarov (@MakarovDen)
+* ***Phone:***     +79084802412
+* ***Discord:***    Denis Makarov (@MakarovDen)
 ___________________________________
 ##   ***About me***
 
@@ -19,7 +19,7 @@ ___________________________________
 +   Git/GitHub
 +   JavaScript (learning now)
 ___________________________________
-##  Code Example
+##  ***Code Example***
 ```
 function multiply(a, b){
   return a * b
