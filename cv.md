@@ -1,5 +1,6 @@
 #   Denis Makarov
-! [profile-photo](my_photo.jpg)
+![profile-photo](my_photo.jpg)
+___________________________________
 ##   ***Contact information***
 * ***Email:***    denisok73@yandex.ru
 * ***Telegram:*** @Denisok73
@@ -17,4 +18,11 @@ ___________________________________
 +   CSS Basics
 +   Git/GitHub
 +   JavaScript (learning now)
+___________________________________
+##  Code Example
+```
+function multiply(a, b){
+  return a * b
+}
+```
 ___________________________________
