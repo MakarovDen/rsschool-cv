@@ -1,0 +1,29 @@
+body {
+    font-family: Arial
+    font-size: 11pt; 
+    background-color: #f0f0f0; 
+    color: #000000; 
+  }
+  h1 {
+    color: #06068c; 
+    font-size: 25pt; 
+    font-family: Arial; 
+    font-weight: italic; 
+  }
+  h2 {
+    color: #06068c; 
+    font-size: 17pt; 
+    font-family: Arial; 
+    font-weight: italic; 
+  p {
+    font-family: Arial
+    font-size: 14pt;
+  }
+  li {
+    font-family: Arial
+    font-size: 14pt;
+  }
+  ul {
+    font-family: Arial
+    font-size: 14pt;
+  }
